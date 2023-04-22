@@ -1,0 +1,61 @@
+/* Set the font family and background color for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("https://marketplace.canva.com/EAE6Lq_uYKQ/1/0/1600w/canva-gray-minimalist-business-zoom-virtual-background-tirg64BW18o.jpg") ;
+    }
+    
+    /* Center the header and set its font size and color */
+    header {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #13191e;
+    margin-bottom: 2rem;
+    }
+    
+    /* Set the font size, color and margin for the main section */
+    main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    font-size: 1rem;
+    color: #2d3436;
+    margin-bottom: 2rem;
+    }
+    
+    /* Style the headings */
+    h1 {
+    font-size: 2rem;
+    color:salmon;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    }
+    
+    /* Style the subheadings */
+    
+    
+    /* Style the paragraphs */
+    p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #090909;
+    }
+    
+    /* Style the container */
+    .container {
+    margin-bottom: 2rem;
+    }
+    
+    /* Add a clear fix for the container */
+    .clear {
+    clear: both;
+    }
+    
+    /* Style the footer */
+    footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #dfe6e9;
+    color: #57606f;
+    }

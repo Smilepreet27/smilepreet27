@@ -1,0 +1,46 @@
+/* Set the font family and background color for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://thumbs.dreamstime.com/b/vector-hobby-pattern-hobby-seamless-background-vector-illustration-vector-hobby-pattern-hobby-seamless-background-113988843.jpg");
+  }
+  
+  /* Center the header and set its font size and color */
+  header {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  /* Style the main section */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color:skyblue;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+  }
+  
+  /* Style the hobby headings */
+  h2 {
+    font-size: 1.5rem;
+    color: #100f0f;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  
+  /* Style the hobby paragraphs */
+  p {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #121111;
+  }
+  
+  /* Style the footer */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #ddd;
+
+
+   }
